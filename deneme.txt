@@ -6,3 +6,7 @@ birkç sey daha
 
 
 adam durmadan degistiriyor
+
+
+commit1
+commit2
